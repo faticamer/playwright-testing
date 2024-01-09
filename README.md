@@ -1,5 +1,5 @@
 <div align="center">
-  # Playwright Automation Framework (POM)
+  <h1> Playwright Automation Framework (POM) </h1>
   <img src="https://img.shields.io/badge/release-0.1.1-orange" alt="version">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="license MIT">
 </div>
