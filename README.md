@@ -1,13 +1,16 @@
-## Playwright Automation Framework (POM)
-
-This framework is designed and built to enable cross-browser web automation.
+<div align="center">
+  # Playwright Automation Framework (POM)
+  <img src="https://img.shields.io/badge/release-0.1.1-orange" alt="version">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="license MIT">
+</div>
+This framework is designed and built to enable cross-browser web automation. It supports Node.js, Python, Java and .NET
 
 ## Built With
 
 - [Playwright](https://playwright.dev)
 - [Typescript](https://www.typescriptlang.org/)
 
-## Prerequisites:
+## Prerequisites
 
 - [Node.js](https://nodejs.org/en)
 - [Visual Studio Code](https://code.visualstudio.com/)
