@@ -15,6 +15,16 @@ This framework is designed and built to enable cross-browser web automation. It 
 - [Node.js](https://nodejs.org/en)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
+## Running locally
+You can clone this repository in the terminal:
+```bash
+git clone https://github.com/faticamer/playwright-testing.git
+```
+After cloning the repository, navigate into it and run command below to install all dependencies
+```bash
+npm install
+```
+
 ## Installation
 
 Directory and package setup
