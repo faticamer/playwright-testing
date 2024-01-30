@@ -1,5 +1,5 @@
 import { Page, chromium } from 'playwright';
-import { credentials, Credentials } from './interface/credentials';
+import { credentials, Credentials } from '../interface/credentials';
 
 class HomePage {
     private page : Page;    

@@ -1,6 +1,6 @@
 import { Page } from 'playwright';
 import CartPage from './CartPage';
-import { credentials, Credentials } from './interface/credentials';
+import { credentials, Credentials } from '../interface/credentials';
 
 class CheckoutPage {
     private page : Page;

@@ -1,5 +1,5 @@
 import { Page } from 'playwright';
-import { credentials, Credentials } from './interface/credentials';
+import { credentials, Credentials } from '../interface/credentials';
 
 class LoginPage {
     private page : Page;
